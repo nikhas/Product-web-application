@@ -26,6 +26,14 @@
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <tr>
+                    <td>Manufacturing date</td>
+                    <td><input type="date" class="form-control"></td>
+                </tr>
+                <tr>
+                    <td>Expiry Date</td>
+                    <td><input type="date" class="form-control"></td>
+                </tr>
+                <tr>
                     <td>Price</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
